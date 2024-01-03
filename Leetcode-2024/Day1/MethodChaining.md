@@ -16,6 +16,7 @@ power - This method raises the result to the power of the given number value and
 getResult - This method returns the result.
 
 Solutions within 10-5 of the actual result are considered correct.
+
 ## Code
 ```javascript 
 // Define a Calculator class
