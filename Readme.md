@@ -6,7 +6,7 @@ This repository documents my coding journey in 2024, focusing on solving LeetCod
 
 ## Table of Contents
 
-- [LeetCode Solutions](#leetcode-solution)
+- [LeetCode Solutions](#leetcode-solutions)
 - [Code Snippets](#code-snippets)
 - [Notes](#notes)
 
