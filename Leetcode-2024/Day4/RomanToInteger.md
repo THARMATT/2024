@@ -2,10 +2,12 @@
 # 13. Roman to Integer
 
 Given a roman numeral, convert it to an integer.
+
 ## Code
 ``` javascript
 /**
- * Convert a Roman numeral to an integer.
+ * Convert a Roman numeral to an integer:
+
  * @param {string} s - Roman numeral string.
  * @return {number} - Integer value.
  */
