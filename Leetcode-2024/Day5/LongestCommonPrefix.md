@@ -8,6 +8,8 @@ If there is no common prefix, return an empty string "".
 
 ```javascript
 // Define a function called longestCommonPrefix that takes an array of strings (strs) as input.
+
+
 var longestCommonPrefix = function (strs) {
   // Check if the input array is empty.
   if (strs.length === 0) {
