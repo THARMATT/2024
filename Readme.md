@@ -9,4 +9,7 @@ This repository documents my coding journey in 2024, focusing on solving LeetCod
 - [LeetCode Solutions](#leetcode-solutions)
 - [Code Snippets](#code-snippets)
 - [Notes](#notes)
+- [Monthly & Weekly Track](#Track)
+- [Projects](#projects)
+
 
