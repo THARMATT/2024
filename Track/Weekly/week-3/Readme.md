@@ -1,0 +1,5 @@
+- Week 3 Report: 21-01-2024
+- Started learning TypeScript and DevOps
+- Initially struggled to grasp concepts, felt unproductive
+- Entered a cycle similar to the third week
+- Realized the need to refocus and restarted learning efforts

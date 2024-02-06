@@ -1,0 +1,13 @@
+- Weekly Report: 4-02-2024
+- Hectic Week
+- No specific goals set for the week
+- Activities:
+  - Attended cohort sessions
+  - Joined YellowSense group for ONDC (Open Network for Digital Commerce)
+  - Experienced busy schedule with numerous meetings
+- Reflective Thought: "Either a blessing or a lesson"
+- Embraced tremendous pressure and collaborated with the team
+- Days spent effectively
+- Goals for Next Week:
+  - Work on ONDC project and host it
+  - Begin improving communication skills
