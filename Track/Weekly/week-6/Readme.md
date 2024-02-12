@@ -1,0 +1,14 @@
+Weekly Report: 11-02-2024
+- Reflective Week
+- Attempted and wish  to host ONDC project but encountered obstacles
+- Activities:
+  - Participated in numerous meetings with YellowSense group
+  - Focused efforts on Express.js backend development
+  - Noticed an increase in screen time and social media usage
+- Reflective Thought: "Understanding mistakes leads to growth"
+- Managed a busy schedule but missed cohort and live classes
+- Spent time in reflection and self-awareness
+- Goals for Next Week:
+  - Prioritize attendance in cohort and live classes
+  - Dedicate time daily to revise fundamentals
+  - Work on improving clear communication skills
