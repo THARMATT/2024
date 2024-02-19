@@ -1,0 +1,12 @@
+Weekly Report: 19-02-2024
+- Focus on fundamentals
+- Understood mistakes like the need to work hard on personal projects and resume, and the importance of selling oneself effectively
+- Main time spent on research, particularly overwhelmed by understanding blockchain and implementing solutions
+- Frustration experienced, especially in grappling with complex problems
+- Completed tasks related to Data Structures and Algorithms (DSA), but found it irrelevant to attempt overly hard problems for badges
+- Goals from last week almost completed, but attendance in cohort classes was lacking
+- Emphasis on improving communication skills and revising fundamentals
+- Next week's goals 
+  - Working on an ecommerce app
+  - Focusing on revision
+  - Prepare for interviews
