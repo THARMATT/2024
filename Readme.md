@@ -6,10 +6,10 @@ This repository documents my coding journey in 2024, focusing on solving LeetCod
 
 ## Table of Contents
 
-- [LeetCode Solutions](#leetcode-solutions)
-- [Code Snippets](#code-snippets)
-- [Notes](#notes)
-- [Monthly & Weekly Track](#Track)
-- [Projects](#projects)
+- [LeetCode Solutions](Leetcode-solutions/)
+- [Code Snippets](Code-Snippets/)
+- [Notes](Notes/Readme.md)
+- [Monthly & Weekly Track](Track/)
+- [Projects](Projects/Readme.md)
 
 
