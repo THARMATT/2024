@@ -1,0 +1,18 @@
+# Weekly Report: 25-02-2024
+- Personal Reflection:
+  - Dedicated time for self-reflection and introspection.
+  - Made the decision to leave YellowSense due to frustrations with the project.
+  - Explored Next.js and delved into TypeScript.
+  - Delved into blockchain technology, particularly Web3.0.
+- Work Activities:
+  - Left YellowSense to pursue other opportunities.
+  - Focused on learning TypeScript and exploring Next.js.
+  - Explored concepts related to blockchain and Web3.0.
+- Overall Assessment:
+  - Despite challenges, the week was satisfactory.
+  - Left the previous company to focus on personal growth and exploration.
+  - Balanced coding and relaxation over the weekend, feeling content overall.
+- Goals for Next Week:
+  - Prioritize focusing on fundamental concepts.
+  - Ensure attendance in cohort and live classes.
+  - Strive for a better balance between work and personal time.
