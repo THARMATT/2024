@@ -1,0 +1,20 @@
+# Weekly Report: 04-03-2024
+- Personal Reflection:
+  - Spent the weekend relaxing and not focusing on studies or DSA, leading to pressure on Monday.
+  - The week was overall good but somewhat disturbed due to the lack of focus on important tasks.
+  - Read articles and enjoyed life, but realized the need to get serious for the next week.
+- Work Activities:
+  - Mainly focused on reading articles and enjoying personal time.
+  - Realized the importance of focusing on building personal projects for future job prospects.
+  - Recognized the need to concentrate on Next.js and start DSA from scratch, emphasizing fundamental subjects like OOP, DSA, DBMS, especially SQL.
+- Overall Assessment:
+  - Despite some disturbances, the week was satisfactory.
+  - Identified the need for a more serious approach in the upcoming week.
+  - Recognized the importance of balancing relaxation and work effectively.
+- Goals for Next Week:
+  - Prioritize building personal projects to enhance job prospects.
+  - Focus on learning Next.js and starting DSA from scratch.
+  - Concentrate on fundamental subjects like OOP, DSA, and DBMS, particularly SQL.
+  - Work on improving resume and communication skills.
+  - Pay attention to diet and physical health.
+  - Allocate time for personal projects, coding practice, and strengthening social presence with meaningful interactions.
