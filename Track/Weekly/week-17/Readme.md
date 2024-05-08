@@ -1,0 +1,2 @@
+# Weekly Track
+- Explored Linux.
