@@ -10,19 +10,33 @@ const sheetName = workbook.SheetNames[0];
 const sheet = workbook.Sheets[sheetName];
 const data = xlsx.utils.sheet_to_json(sheet);
 
+// Function to convert Excel date to JS date string
+function excelDateToJSDate(excelDate) {
+    const date = new Date(Math.floor((excelDate - (25567 + 1)) * 86400 * 1000));
+    return date.toISOString().split('T')[0]; // Convert to YYYY-MM-DD format
+}
+
+// Function to convert fractional day to time string
+function fractionalDayToTime(fraction) {
+    const totalSeconds = Math.round(fraction * 86400); // Convert fractional day to total seconds
+    const hours = Math.floor(totalSeconds / 3600);
+    const minutes = Math.floor((totalSeconds % 3600) / 60);
+    const seconds = totalSeconds % 60;
+    return `${hours}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+}
+
 // Convert the data to Markdown format
 function dataframeToMarkdown(data) {
-    let md = "| Day   | Ques No. | Topic    | Question | Tag  | Time Taken | Remarks |\n";
-    md += "|-------|----------|----------|----------|------|------------|---------|\n";
+    let md = "| Date       | Topic    | Question | Tag  | Time Taken | Remarks |\n";
+    md += "|------------|----------|----------|------|------------|---------|\n";
 
     data.forEach(row => {
         // Extract data from the row
-        const day = row['Day'];
-        const quesNo = row['Ques No.'];
+        const date = excelDateToJSDate(row['Date']);
         const topic = row['Topic'];
         const question = row['Question'];
         const tag = row['Tag'];
-        const timeTaken = row['Time Taken'];
+        const timeTaken = fractionalDayToTime(row['Time Taken']);
         const remarks = row['REMARKS'];
 
         // Construct the question link if the format is correct
@@ -37,7 +51,7 @@ function dataframeToMarkdown(data) {
         }
 
         // Append the row to the markdown string
-        md += `| ${day} | ${quesNo} | ${topic} | ${questionMd} | ${tag} | ${timeTaken} | ${remarks} |\n`;
+        md += `| ${date} | ${topic} | ${questionMd} | ${tag} | ${timeTaken} | ${remarks} |\n`;
     });
 
     return md;
