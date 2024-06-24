@@ -1,24 +1,27 @@
-## Weekly Report - 17-06-2024
+## Weekly Report - 12-06-2024
 
 ### 1. Next Week Goals:
-- Cohort complete until [W-8] & start coding in Typescript.
-- Each Day an Article from Ashish on SD.
-- Each Day a new DSA problem.
-- Networking Course[Optional].
+- Complete [W-6] &[W-7] assignments and lectures.
+- DSA fundamentals Revision and daily visit DSA problems.
+- Networking [optional].
+- System Design Articles[1-2].
+- Code as much as you can[optional].
 
 ### 2. What I Coded:
-- React Hooks and State Management with recoila nd context API.
+- React and Express Code.
 
 ### 3. What I Learned:
-- React Hooks and Recoil.
+- Express,MongoDB,React and Hooks.
 
 ### 4.Previous Week Goal Fullfillment:
-- Complete [W-6] &[W-7] assignments and lectures:[W-6]✅[W-7]❌
-- DSA fundamentals Revision:✅
-
+- Cohort complete till week-6:❌
+- Revise DSA fundamentals:❌
+- Networking:✅
+- System Design:❌
 ### 5. Overall Performance:
-- Still polluted mind by reels and entertainment.
-- Quite good but less coding and more watching videos.
+- Alot of time, I am spending on scrolling and empty things.
+- Lack of focus.
+- Confusion.
 
 
 
